@@ -1,4 +1,4 @@
-## Task Description (contd.)
+## Task Description
 
 The problem involves predicting the future movement of traffic agents for autonomous vehicles, where challenges include:
 - Unpredictable human behavior, obstacles, and weather conditions
